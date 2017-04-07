@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D2EA-2236
+
+ Directory of C:\Users\Priyanka Patra\Desktop\My Project
+
+04/07/2017  11:14 AM    <DIR>          .
+04/07/2017  11:14 AM    <DIR>          ..
+04/07/2017  10:26 AM               366 test2.txt
+04/07/2017  11:14 AM                 0 test3.txt
+               2 File(s)            366 bytes
+               2 Dir(s)  44,202,999,808 bytes free
